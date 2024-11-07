@@ -116,5 +116,8 @@
       "canvas",
       "node-gyp"
     ]
+  },
+  "volta": {
+    "node": "22.11.0"
   }
 }

@@ -77,7 +77,7 @@ const chartTabs: TabOption[] = [
 
     <div class="mt-5 w-full md:flex">
       <AnalysisChartCard class="mt-5 md:mr-4 md:mt-0 md:w-1/3" title="访问数量">
-        <AnalyticsVisitsData />
+        <AnalyticsVisitsData /> //传入图表样式和数据
       </AnalysisChartCard>
       <AnalysisChartCard class="mt-5 md:mr-4 md:mt-0 md:w-1/3" title="访问来源">
         <AnalyticsVisitsSource />
