@@ -8,7 +8,7 @@
       "request": "launch",
       "url": "http://localhost:5555",
       "env": { "NODE_ENV": "development" },
-      "sourceMaps": true,
+      "sourceMaps": false,
       "webRoot": "${workspaceFolder}"
     },
     {
